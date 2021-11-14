@@ -1,3 +1,6 @@
+About
+=====
+
 My attempt at rendering the Mandelbrot set in high school.
 
 The program supports point and click, adjustable number of iterations, adjustable zoom level, a button for taking screenshots ect.
